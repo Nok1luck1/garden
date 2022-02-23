@@ -70,21 +70,3 @@ uint public PID;
 
 
 
-TESTNET 
-Verifying MasterChefBIswap@0x30B486bE43d9f1427aE1a0a91D19f1f197dA6564
-Pass - Verified: https://ropsten.etherscan.io/address/0x30B486bE43d9f1427aE1a0a91D19f1f197dA6564#code
-
-Verifying MasterChef@0xBA4FB7eE96acDA00338a9f60e57Fc70bC09F6a5E
-Pass - Verified: https://ropsten.etherscan.io/address/0xBA4FB7eE96acDA00338a9f60e57Fc70bC09F6a5E#code
-
-Verifying BananaToken@0x69c04a427934f5169200457EDa2aDd58E88dbe23
-Pass - Verified: https://ropsten.etherscan.io/address/0x69c04a427934f5169200457EDa2aDd58E88dbe23#code
-
-Verifying BananaSplitBar@0x148E4e0192c15FDa43E09d6E5997D28935758Ac9
-Pass - Verified: https://ropsten.etherscan.io/address/0x148E4e0192c15FDa43E09d6E5997D28935758Ac9#code
-
-Verifying BuryShib@0x423F9E15A2cB4391279781ab780922019988d921
-Pass - Verified: https://ropsten.etherscan.io/address/0x423F9E15A2cB4391279781ab780922019988d921#code
-
-Verifying MasterApe@0x5dBcf161f86fadc08E3dC8C20AFD27616A5c0Aa4
-Pass - Verified: https://ropsten.etherscan.io/address/0x5dBcf161f86fadc08E3dC8C20AFD27616A5c0Aa4#code
